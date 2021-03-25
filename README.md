@@ -16,7 +16,7 @@ cron schedule example:
 &nbsp;  
 &nbsp;
   
-Other option will be to grant cron access to disk operation
+Other option will be to grant cron access to disk operation, so it can run the python script
 
 https://blog.bejarano.io/fixing-cron-jobs-in-mojave/
 
